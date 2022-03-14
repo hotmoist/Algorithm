@@ -8,7 +8,7 @@ Just for fun
 
 ## Baekjoon online Judge
 백준 알고리즘    
-https://solved.ac/profile/gye0203 
+https://www.acmicpc.net/user/gye0203
 
 <div align= 'center'>
 
